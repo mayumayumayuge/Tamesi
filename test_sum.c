@@ -6,7 +6,7 @@ int main(){
     double y = 0;
     double sum = 0;
 
-    x = 7.1;
+    x = 3.3;
     y = 7.14;
 
     sum = x + y;
