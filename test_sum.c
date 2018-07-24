@@ -13,7 +13,7 @@ int main(){
 
     sum = x + y - z;
 
-    printf("x = %lf, y = %lf, x + y = %lf\n", x, y, sum);
+    printf("x = %lf, y = %lf, z = %lf,  x + y - z = %lf\n", x, y, z, sum);
 
     return 0;
 }
